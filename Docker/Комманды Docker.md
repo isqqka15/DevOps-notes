@@ -15,6 +15,8 @@ docker run <имя образа> # Просто запустит контейн�
 docker run --name <имя контейнера> <имя образа> # создаст контейнер и сразу запустит его 
 
 docker run -i -t <имя образа> # зайти внутрь контейнера 
+
+docker run -d <имя образа> # запустить образ в отсоидененном режиме.
 ```
 
 **docker ps** - проверить контейнеры
@@ -68,3 +70,30 @@ docker images -a # показать что то скрытое хз
 docker history <имя образа> # смотрит все слои
 ```
 
+**docker build** - создать образ из dockerfile
+```bash
+docker build <имя контейнера>
+docker build -t <имя контейнера>:<тэг>
+```
+
+**docker logs** - показать что сейчас выводится в контейнере
+```bash
+docker logs <имя контейнера>
+```
+
+**docker exec** - запустить комманду в контейнере
+```bash
+docker exec <имя контейнера> <комманда>
+```
+
+**docker commit** - сделать образ из существующего контейнера
+```bash
+docker commit <имя контейнера>
+```
+
+**docker builder prune** - очистить кэш
+```bash
+docker builder prune
+docker builder prune -a # удалить больше кэша
+docker system prune # удалить все неиспользуемое
+```

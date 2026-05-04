@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Как создать Docker File.md",
+                "file": "Docker/Комманды Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как создать Docker File"
+              "title": "Комманды Docker"
             }
           },
           {
@@ -196,13 +196,17 @@
   "active": "01c2f8ca3fc1223b",
   "lastOpenFiles": [
     "Docker/Коды в Docker.md",
-    "Linux/Определения/Ссылки (link).md",
-    "Docker/Комманды Docker.md",
     "Docker/Как создать Docker File.md",
+    "Docker/Что значат слова в Dockerfile.md",
+    "Без названия.base",
+    "Docker/Комманды Docker.md",
     "Docker/Что такое Docker.md",
+    "Git/Определения/Коммит (commit).md",
+    "Git/Определения/Тэг (tag).md",
+    "Git/Определения/Ветка(branch).md",
+    "Linux/Определения/Ссылки (link).md",
     "Linux/Комманды в линуксе.md",
     "Linux/Bash синтаксис.md",
-    "Linux/Определения/Чо за буковки когда пишешь ls -l.md",
-    "Без названия.base"
+    "Linux/Определения/Чо за буковки когда пишешь ls -l.md"
   ]
 }
