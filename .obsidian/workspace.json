@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1a56f61da70420b5",
+            "id": "b1d2c61b2197c0c5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -197,15 +197,16 @@
   "lastOpenFiles": [
     "Docker/Коды в Docker.md",
     "Docker/Как создать Docker File.md",
+    "Docker/docker ps -f.md",
+    "Docker/Комманды Docker.md",
+    "Linux/Комманды в линуксе.md",
     "Docker/Что значат слова в Dockerfile.md",
     "Без названия.base",
-    "Docker/Комманды Docker.md",
     "Docker/Что такое Docker.md",
     "Git/Определения/Коммит (commit).md",
     "Git/Определения/Тэг (tag).md",
     "Git/Определения/Ветка(branch).md",
     "Linux/Определения/Ссылки (link).md",
-    "Linux/Комманды в линуксе.md",
     "Linux/Bash синтаксис.md",
     "Linux/Определения/Чо за буковки когда пишешь ls -l.md"
   ]
