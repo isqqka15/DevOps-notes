@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01c2f8ca3fc1223b",
+            "id": "cdcb10786264ca16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Комманды Docker.md",
+                "file": "Docker/Что значат слова в Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Комманды Docker"
+              "title": "Что значат слова в Dockerfile"
             }
           },
           {
-            "id": "b1d2c61b2197c0c5",
+            "id": "99fce32fe538709d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -193,21 +193,33 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "01c2f8ca3fc1223b",
+  "active": "cdcb10786264ca16",
   "lastOpenFiles": [
+    "Docker/Что значат слова в Dockerfile.md",
+    "Docker/Комманды Docker.md",
+    "Docker/Синтаксис Docker похож на Bash.md",
+    "Linux/Bash синтаксис.md",
     "Docker/Коды в Docker.md",
     "Docker/Как создать Docker File.md",
-    "Docker/docker ps -f.md",
-    "Docker/Комманды Docker.md",
+    "Kubernetes/Что такое Kubernetes.md",
+    "Без названия.md",
+    "Kubernetes",
+    "Git/Комманды в Git-е.md",
     "Linux/Комманды в линуксе.md",
-    "Docker/Что значат слова в Dockerfile.md",
-    "Без названия.base",
     "Docker/Что такое Docker.md",
+    "Docker/docker ps -f.md",
+    "Ссылки на ресурсы и прочее/Ссылки.md",
+    "Linux/Принцип работы/dev nool.md",
+    "Linux/Принцип работы/Перенаправление вывода.md",
+    "Linux/Принцип работы/Пайп (комбинирование комманд).md",
+    "Linux/Принцип работы/Звездочки.md",
+    "Linux/Принцип работы/В чем разница между tar, bzip2, gzip.md",
+    "Git/Принцип работы/git branch -f (ИМЯ ВЕТКИ) HEAD~(ЧИСЛО).md",
+    "Git/Определения/Ветка(branch).md",
+    "Linux/Определения/Чо за буковки когда пишешь ls -l.md",
+    "Без названия.base",
     "Git/Определения/Коммит (commit).md",
     "Git/Определения/Тэг (tag).md",
-    "Git/Определения/Ветка(branch).md",
-    "Linux/Определения/Ссылки (link).md",
-    "Linux/Bash синтаксис.md",
-    "Linux/Определения/Чо за буковки когда пишешь ls -l.md"
+    "Linux/Определения/Ссылки (link).md"
   ]
 }
